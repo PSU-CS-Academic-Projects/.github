@@ -4,7 +4,7 @@ Welcome to the official repository of academic projects developed by Computer Sc
 
 ## About
 
-PSU-CS-Academic-Projects serves as a centralized archive and showcase of student-developed software projects. The goal of this organization is to preserve academic work, encourage knowledge sharing, and inspire future students through real-world project examples.
+**PSU-CS-Academic-Projects** serves as a centralized archive and showcase of student-developed software projects. The goal of this organization is to preserve academic work, encourage knowledge sharing, and inspire future students through real-world project examples.
 
 ## Objectives
 
@@ -42,12 +42,21 @@ All repositories must include:
 * Subject Information
 * GitHub Topics
 
-Please review the Project Submission Guide before submitting a project.
+Please review the [Project Submission Guide](./PROJECT_SUBMISSION_GUIDE.md) before submitting a project.
 
 ## Contributing
 
-Students who wish to submit projects should follow the repository standards and submission requirements defined in this organization.
+Students who wish to submit projects should follow the repository standards and submission requirements defined in this organization. Please read [CONTRIBUTING.md](./CONTRIBUTING.md) for details.
 
-## PSU Computer Science
+## Organization Files
 
+| File | Description |
+|------|-------------|
+| [CONTRIBUTING.md](./CONTRIBUTING.md) | How to contribute to this organization |
+| [PROJECT_SUBMISSION_GUIDE.md](./PROJECT_SUBMISSION_GUIDE.md) | Step-by-step guide for submitting projects |
+| [README_TEMPLATE.md](./README_TEMPLATE.md) | Template for your project README |
+
+---
+
+PSU Computer Science
 Building solutions, sharing knowledge, and inspiring future developers.
