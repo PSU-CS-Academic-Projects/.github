@@ -128,14 +128,6 @@ Provide a deployment link if available.
 
 ---
 
-## Documentation
-Provide links to:
-* Project Paper
-* User Manual
-* Technical Documentation
-
----
-
 ## Video Demonstration
 Provide a video demonstration link if available.
 
