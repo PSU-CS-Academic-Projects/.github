@@ -58,6 +58,7 @@ Students who wish to submit projects should follow the repository standards and 
 |------|-------------|
 | [CONTRIBUTING.md](../CONTRIBUTING.md) | How to contribute to this organization |
 | [PROJECT_SUBMISSION_GUIDE.md](../PROJECT_SUBMISSION_GUIDE.md) | Step-by-step guide for submitting projects |
+| [Project Template](https://github.com/PSU-CS-Academic-Projects/project-template) | Template repository for submitting your project |
 
 ---
 
