@@ -6,6 +6,10 @@ Welcome to the official repository of academic projects developed by Computer Sc
 
 **PSU-CS-Academic-Projects** serves as a centralized archive and showcase of student-developed software projects. The goal of this organization is to preserve academic work, encourage knowledge sharing, and inspire future students through real-world project examples.
 
+## Showcase Website
+
+Visit our project showcase: [PSU-CS-Academic-Projects.github.io](https://psu-cs-academic-projects.github.io)
+
 ## Objectives
 
 * Preserve student projects for future reference.
