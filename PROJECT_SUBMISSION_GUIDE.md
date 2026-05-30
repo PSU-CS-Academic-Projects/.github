@@ -129,7 +129,7 @@ Provide a deployment link if available.
 ---
 
 ## Video Demonstration
-Provide a video demonstration link if available.
+Provide a video demonstration link if available. (Optional)
 
 ---
 
